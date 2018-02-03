@@ -21,7 +21,7 @@ La aplicación es un proyecto de la asignatura Desarrollo de Interfaces del 2º 
  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE de Java usado
  * [Maven](https://maven.apache.org/) - Maven framework
  * [SQLite](https://www.sqlite.org/)- BBDD embebida usada
- *[Hibernate](http://hibernate.org/) - ORM usada
+ * [Hibernate](http://hibernate.org/) - ORM usada
  
  -------------
  
