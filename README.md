@@ -32,5 +32,5 @@ La aplicación es un proyecto de la asignatura "Desarrollo de Interfaces" del 2�
 
 -------------
 # Licencia
- 2018 beneke96
+<p>&copy; 2018 Beneke96<p>
   
