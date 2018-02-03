@@ -13,7 +13,7 @@ Esta aplicación será creada en JAVA. Consistirá en una aplicación orientada 
 -----------
 
 # Motivación
-La aplicación es un proyecto de la asignatura Desarrollo de Interfaces del 2º curso  CFGS "Desarrollo de Aplicaciones Multiplataforma"
+La aplicación es un proyecto de la asignatura "Desarrollo de Interfaces" del 2º curso  CFGS "Desarrollo de Aplicaciones Multiplataforma"
 
 -------------
 
