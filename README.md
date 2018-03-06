@@ -25,6 +25,15 @@ La aplicación es un proyecto de la asignatura "Desarrollo de Interfaces" del 2�
  
  -------------
  
+ # Base de Datos
+ 
+ La base de datos consta de una tabla llamada "Futbol" con los siguientes campos:
+ - String Nombre(Jugador del jugador).
+ - String Equipo (Nombre del equipo en el que juega).
+ - String Categoria (Categoria del equipo en el que juega).
+ - String Posicion (Posición en la que juega).
+ 
+ 
 # Ejemplos de Uso
 
 -------------
