@@ -8,7 +8,7 @@ Guarda a los jugadores mas valorados.
 
 # Descripcion 
 
-Esta aplicación será creada en JAVA. Consistirá en una aplicación orientada a los ojeadores de fútbol base, en la cual guardará el nombre de los jugadores así como la puntuación de sus características mas destacables. Podrá guardar y eliminar los jugadores que desee.
+Esta aplicación será creada en JAVA. Consistirá en una aplicación orientada a los ojeadores de fútbol base, en la cual guardará el nombre de los jugadores así como el equipo al que pertenece, la categoria de este y la posición en la que juega. Podrá guardar y eliminar los jugadores que desee.
 
 -----------
 
